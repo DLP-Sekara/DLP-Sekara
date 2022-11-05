@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm lahiru</h1>
-<h3 align="center">full stack developer from Sri lanka</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlp-sekara&label=Profile%20views&color=0e75b6&style=flat" alt="dlp-sekara" /> </p>
